@@ -1,0 +1,602 @@
+[
+  {
+    "name": "Мужская куртка The North Face Nuptse Jacket",
+    "price": 49999,
+    "imageUrl": "https://static.street-beat.ru/upload/resize_cache/iblock/805/500_500_1/oxoweejons3k0dyd6zet06lzp90a4p2z.jpg",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "rating": 4.8,
+    "category": 1,
+    "gender": "мужской",
+    "id": "1"
+  },
+  {
+    "name": "Мужской пуховик STREETBEAT Basic Winter Jacket",
+    "price": 25999,
+    "imageUrl": "https://static.street-beat.ru/upload/iblock/06c/qv24psaqlh2u3g9kqlq1naxbyazwfclr.jpg",
+    "sizes": [
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "rating": 4.9,
+    "category": 1,
+    "gender": "мужской",
+    "id": "2"
+  },
+  {
+    "name": "Мужская куртка Helly Hansen Tromsoe Jacket",
+    "price": 28999,
+    "imageUrl": "https://static.street-beat.ru/upload/iblock/ff1/ff181e72137aa84e3361875331e94efe.jpg",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "rating": 4.8,
+    "category": 1,
+    "gender": "мужской",
+    "id": "3"
+  },
+  {
+    "name": "Женский пуховик STREETBEAT Down Parka",
+    "price": 29999,
+    "imageUrl": "https://static.street-beat.ru/upload/iblock/00e/s7x1bd55gdp1l2td7fogc8ivqc42my6e.jpg",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "XL",
+      "XXL"
+    ],
+    "rating": 4.9,
+    "category": 1,
+    "gender": "женский",
+    "id": "4"
+  },
+  {
+    "name": "Женская куртка The North Face Heavenly Down Jacket",
+    "price": 35999,
+    "imageUrl": "https://static.street-beat.ru/upload/iblock/0c2/06ad5iy17cfbdzavn7mllik54nmwy5tz.jpg",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "XL",
+      "XXL"
+    ],
+    "rating": 4.7,
+    "category": 1,
+    "gender": "женский",
+    "id": "5"
+  },
+  {
+    "name": "Мужская куртка The North Face Quest Hooded Jacket",
+    "price": 13499,
+    "imageUrl": "https://static.street-beat.ru/upload/iblock/48d/hcxaqw67o5n18nw427lxdigl45sqq1cc.jpg",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "XL",
+      "XXL"
+    ],
+    "rating": 4.4,
+    "category": 1,
+    "gender": "мужской",
+    "id": "6"
+  },
+  {
+    "name": "Женская куртка The North Face Quest Insulated Jacket",
+    "price": 19999,
+    "imageUrl": "https://static.street-beat.ru/upload/iblock/a7f/ansgv51rizp1mjb1rmjzcl4cunryrkdd.jpg",
+    "sizes": [
+      "XXS",
+      "S",
+      "M",
+      "XL",
+      "XXL"
+    ],
+    "rating": 4.5,
+    "category": 1,
+    "gender": "женский",
+    "id": "7"
+  },
+  {
+    "name": "Женская куртка The North Face Breithorn Down Jacket",
+    "price": 36099,
+    "imageUrl": "https://static.street-beat.ru/upload/iblock/0bd/zmxojyaa0fnyoj42tr7l3y239shsqgyy.jpg",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "XL"
+    ],
+    "rating": 4.8,
+    "category": 1,
+    "gender": "женский",
+    "id": "8"
+  },
+  {
+    "name": "Мужская толстовка The North Face 100 Glacier Half Zip",
+    "price": 7099,
+    "imageUrl": "https://static.street-beat.ru/upload/iblock/744/4m0moilbgmvfz9abrhzf0mllern7ros5.jpg",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "XL"
+    ],
+    "rating": 4.8,
+    "category": 4,
+    "gender": "мужской",
+    "id": "9"
+  },
+  {
+    "name": "Мужская худи The North Face GPS Hoodie Moscow",
+    "price": 6799,
+    "imageUrl": "https://static.street-beat.ru/upload/iblock/67b/67b5ed463cc96d7f5b738eb9bc9ccf42.jpg",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "rating": 5.0,
+    "category": 4,
+    "gender": "мужской",
+    "id": "10"
+  },
+  {
+    "name": "Мужская худи Napapijri B-Ayas Hoodie",
+    "price": 11099,
+    "imageUrl": "https://static.street-beat.ru/upload/iblock/15d/5n6y3ok1bpeg1fi9vhlibacbvm7c2orr.jpg",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "rating": 4.9,
+    "category": 4,
+    "gender": "мужской",
+    "id": "11"
+  },
+  {
+    "name": "Мужская толстовка The North Face Fine Alpine Hoodie",
+    "price": 4599,
+    "imageUrl": "https://static.street-beat.ru/upload/iblock/7ae/7ae151ff8378f0243c78d30db56a94d0.JPG",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "rating": 4.7,
+    "category": 4,
+    "gender": "мужской",
+    "id": "12"
+  },
+  {
+    "name": "Женская худи PUMA Classics Oversized Hoodie",
+    "price": 7999,
+    "imageUrl": "https://static.street-beat.ru/upload/iblock/167/sctsvf3g5y3y8wjg36erlmy3931rjucg.jpg",
+    "sizes": [
+      "XXS",
+      "XS",
+      "S",
+      "M",
+      "XL"
+    ],
+    "rating": 4.85,
+    "category": 4,
+    "gender": "женский",
+    "id": "13"
+  },
+  {
+    "name": "Женская толстовка STREETBEAT Full Zip Pullover",
+    "price": 4499,
+    "imageUrl": "https://static.street-beat.ru/upload/iblock/027/nit7zp93y8cslzd61xsyz39exyyecmza.jpg",
+    "sizes": [
+      "XXS",
+      "XS",
+      "S",
+      "M",
+      "XL"
+    ],
+    "rating": 4.83,
+    "category": 4,
+    "gender": "женский",
+    "id": "14"
+  },
+  {
+    "name": "Женская толстовка Nike Sportswear Tech Fleece Windrunner Hoodie Full Zip",
+    "price": 6799,
+    "imageUrl": "https://static.street-beat.ru/upload/iblock/ddf/ddf02bf7290e993c2e10e91609549795.jpg",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L"
+    ],
+    "rating": 4.8,
+    "category": 4,
+    "gender": "женский",
+    "id": "15"
+  },
+  {
+    "name": "Женская толстовка The North Face 100 Glacier 1/4 Zip",
+    "price": 7499,
+    "imageUrl": "https://static.street-beat.ru/upload/iblock/ce7/72xk52z2yun4aovwifbr55f5wk49n3mt.jpg",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L"
+    ],
+    "rating": 4.74,
+    "category": 4,
+    "gender": "женский",
+    "id": "16"
+  },
+  {
+    "name": "Мужская футболка STREETBEAT Tee Find Your Color",
+    "price": 3299,
+    "imageUrl": "https://static.street-beat.ru/upload/iblock/a04/a04e966d35774b3aec682e1451fc62c2.jpg",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "rating": 4.89,
+    "category": 2,
+    "gender": "мужской",
+    "id": "17"
+  },
+  {
+    "name": "Мужская футболка The North Face GPS Tee Moscow",
+    "price": 3199,
+    "imageUrl": "https://static.street-beat.ru/upload/iblock/8f9/nu2fi9qb9qonw7lb2kx4lko98er9msda.jpg",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "rating": 4.79,
+    "category": 2,
+    "gender": "мужской",
+    "id": "18"
+  },
+  {
+    "name": "Мужская футболка Napapijri S-Bolivar Short-Sleeve",
+    "price": 4599,
+    "imageUrl": "https://static.street-beat.ru/upload/iblock/88e/48jme5qp5oojsiyt8f1m7gfy7z3b851u.jpg",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "rating": 4.85,
+    "category": 2,
+    "gender": "мужской",
+    "id": "19"
+  },
+  {
+    "name": "Мужская футболка The North Face Simple Dome Tee",
+    "price": 3999,
+    "imageUrl": "https://static.street-beat.ru/upload/iblock/71b/71bcf48621753b088ed2f1222e30eb16.jpg",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "rating": 4.45,
+    "category": 2,
+    "gender": "мужской",
+    "id": "20"
+  },
+  {
+    "name": "Женская футболка STREETBEAT Basic Tee Find Your Color",
+    "price": 3299,
+    "imageUrl": "https://static.street-beat.ru/upload/iblock/29c/29c7b4e0fd448c3c362f896f5e72e5c7.jpg",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "rating": 4.9,
+    "category": 2,
+    "gender": "женский",
+    "id": "21"
+  },
+  {
+    "name": "Женская Футболка Napapijri S-Pajas",
+    "price": 4599,
+    "imageUrl": "https://static.street-beat.ru/upload/iblock/de9/2k4d1qpqbcvnp3wh8fx2nmx0hx83wvn3.jpg",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "rating": 4.83,
+    "category": 2,
+    "gender": "женский",
+    "id": "22"
+  },
+  {
+    "name": "Женская футболка STREETBEAT Basic Tee Find Your Color",
+    "price": 3299,
+    "imageUrl": "https://static.street-beat.ru/upload/iblock/96f/96fc44c3b41c03301b69bde453f24a6f.jpg",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "rating": 4.9,
+    "category": 2,
+    "gender": "женский",
+    "id": "23"
+  },
+  {
+    "name": "Женская футболка STREETBEAT Tee",
+    "price": 3299,
+    "imageUrl": "https://static.street-beat.ru/upload/iblock/809/5yf7vks3wf00fmulpzcrkz7xchjzh3zw.jpg",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "rating": 4.95,
+    "category": 2,
+    "gender": "женский",
+    "id": "24"
+  },
+  {
+    "name": "Женские брюки PUMA Classics Sweatpants",
+    "price": 6499,
+    "imageUrl": "https://static.street-beat.ru/upload/iblock/639/ubk4g4cvcbs1vl0lorq9kngjgg6t2uj4.jpg",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "rating": 4.95,
+    "category": 3,
+    "gender": "женский",
+    "id": "25"
+  },
+  {
+    "name": "Женские брюки The North Face Quest Softshell Pant",
+    "price": 9999,
+    "imageUrl": "https://static.street-beat.ru/upload/iblock/eff/s82fmv185qpnujxqau1tjsqcq03bpjzs.jpg",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "rating": 4.83,
+    "category": 3,
+    "gender": "женский",
+    "id": "26"
+  },
+  {
+    "name": "Женские брюки PUMA Infuse Sweat pants",
+    "price": 5999,
+    "imageUrl": "https://static.street-beat.ru/upload/iblock/c66/mehd42aj1gtzxwzqj7s6gf2q2gbniuie.jpg",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "rating": 4.87,
+    "category": 3,
+    "gender": "женский",
+    "id": "27"
+  },
+  {
+    "name": "Женские брюки PUMA Classics Relaxed Pants",
+    "price": 3699,
+    "imageUrl": "https://static.street-beat.ru/upload/iblock/583/vwhc3n2sv3v8ida68gj6mcruri4k7hym.jpg",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "rating": 4.84,
+    "category": 3,
+    "gender": "женский",
+    "id": "28"
+  },
+  {
+    "name": "Мужские брюки PUMA Tech Track Pants",
+    "price": 7999,
+    "imageUrl": "https://static.street-beat.ru/upload/iblock/d5b/qqdkkmq7scwxslcl7ffl75olq6y6oxn1.jpg",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L"
+    ],
+    "rating": 4.89,
+    "category": 3,
+    "gender": "мужской",
+    "id": "29"
+  },
+  {
+    "name": "Мужские брюки PUMA Classics Small Logo Sweatpants",
+    "price": 6499,
+    "imageUrl": "https://static.street-beat.ru/upload/iblock/3c2/j876m12kdp8i58fe8z2xflha7mbcmsan.jpg",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L"
+    ],
+    "rating": 4.93,
+    "category": 3,
+    "gender": "мужской",
+    "id": "30"
+  },
+  {
+    "name": "Женские кроссовки Nike Blazer Mid '77",
+    "price": 18999,
+    "imageUrl": "https://static.street-beat.ru/upload/iblock/cad/b0i1os3uqhmt86npo4sbl45steiyfk6l.jpg",
+    "sizes": [
+      "37",
+      "38",
+      "39",
+      "40",
+      "41"
+    ],
+    "rating": 4.91,
+    "category": 5,
+    "gender": "женский",
+    "id": "31"
+  },
+  {
+    "name": "Женские кроссовки Converse Chuck Taylor All Star Lugged Winter 2.0",
+    "price": 17599,
+    "imageUrl": "https://static.street-beat.ru/upload/iblock/c5a/4upav7zonnse0kq7i8xqlq8gdcsbc268.jpg",
+    "sizes": [
+      "37",
+      "38",
+      "39",
+      "42",
+      "43"
+    ],
+    "rating": 5.0,
+    "category": 5,
+    "gender": "женский",
+    "id": "32"
+  },
+  {
+    "name": "Женские кроссовки New Balance 5740",
+    "price": 17599,
+    "imageUrl": "https://static.street-beat.ru/upload/iblock/7d6/e0rsnv825qgen2p30i3v7gfjqz5vy9ca.jpg",
+    "sizes": [
+      "36",
+      "38",
+      "39",
+      "40",
+      "41"
+    ],
+    "rating": 4.8,
+    "category": 5,
+    "gender": "женский",
+    "id": "33"
+  },
+  {
+    "name": "Женские ботинки The North Face Back to Berkeley Textile III",
+    "price": 19999,
+    "imageUrl": "https://static.street-beat.ru/upload/iblock/e22/e222b0994b03968b67c8aa21fb33f915.jpg",
+    "sizes": [
+      "36",
+      "38",
+      "39",
+      "40",
+      "41"
+    ],
+    "rating": 4.7,
+    "category": 5,
+    "gender": "женский",
+    "id": "34"
+  },
+  {
+    "name": "Мужские кроссовки Jordan 6 Rings",
+    "price": 25999,
+    "imageUrl": "https://static.street-beat.ru/upload/iblock/a92/rh82niqmfv5yhtc14wo9v4mwa9n9kzdr.jpg",
+    "sizes": [
+      "40",
+      "41",
+      "42",
+      "43",
+      "44"
+    ],
+    "rating": 4.9,
+    "category": 5,
+    "gender": "мужской",
+    "id": "35"
+  },
+  {
+    "name": "Мужские кроссовки Jordan Series ES",
+    "price": 16999,
+    "imageUrl": "https://static.street-beat.ru/upload/iblock/e08/lb4tpnvu153zs0upo8ea0smkgqgxm3v8.jpg",
+    "sizes": [
+      "40",
+      "41",
+      "42",
+      "43",
+      "44"
+    ],
+    "rating": 4.9,
+    "category": 5,
+    "gender": "мужской",
+    "id": "36"
+  },
+  {
+    "name": "Мужские кроссовки Nike Air Max Terrascape 90",
+    "price": 22999,
+    "imageUrl": "https://static.street-beat.ru/upload/iblock/80a/aaeap00pb7ok7pxj0o5p3ixpw3ktg9qh.jpg",
+    "sizes": [
+      "40",
+      "41",
+      "42",
+      "43",
+      "44"
+    ],
+    "rating": 4.95,
+    "category": 5,
+    "gender": "мужской",
+    "id": "37"
+  },
+  {
+    "name": "Мужские кроссовки Jordan Dub Zero",
+    "price": 24999,
+    "imageUrl": "https://static.street-beat.ru/upload/iblock/84d/83wbgd1z2am170wx3mzyv2ksaje2vemq.jpg",
+    "sizes": [
+      "40",
+      "41",
+      "42",
+      "43",
+      "44"
+    ],
+    "rating": 4.97,
+    "category": 5,
+    "gender": "мужской",
+    "id": "38"
+  }
+]
