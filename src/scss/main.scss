@@ -28,9 +28,13 @@
 
   &__title {
     display: flex;
-    flex-direction: column;
+    gap: 20px;
     flex: 1 1 auto;
-
+    align-items: center;
+    &-info{
+      display: flex;
+      flex-direction: column;
+    }
     &-head {
       align-self: flex-start;
 
@@ -139,10 +143,21 @@
       gap: 5px;
     }
   }
+  @media (max-width: 600px) {
+    flex-wrap: wrap;
+    &__title{
+      flex: 1 1 100%;
+    }
+  }
 }
 
 .sorts-category {
   display: flex;
+  align-items: center;
+  margin: 20px 0;
+  @media (max-width: 1000px) {
+    align-items: flex-start;
+  }
 }
 
 
@@ -153,7 +168,9 @@
   width: 100%;
   gap: 10px;
   justify-content: flex-end;
-
+  @media(max-width: 475px) {
+    flex-wrap: wrap;
+  }
   &-image {
     transition: 0.5s;
     transform: rotate(180deg);
@@ -182,21 +199,26 @@
 
   &-modal {
     position: absolute;
-    top: 60px;
+    top: 30px;
     right: 0;
     max-width: 200px;
     background: #FFFFFF;
     box-shadow: 0 0 10px #c4c4c4;
     border-radius: 20px;
     padding: 15px 0;
+    @media(max-width: 475px) {
+      top: 60px;
+    }
   }
 }
 
 .categories {
   display: flex;
   gap: 20px;
-  padding: 20px 0;
   flex: 1 1 100%;
+  @media (max-width: 1000px){
+    flex-wrap: wrap;
+  }
 }
 
 .sort-modal {
@@ -274,7 +296,9 @@
   align-items: center;
   justify-content: flex-start;
   text-align: center;
-
+  @media (max-width: 345px) {
+    width: 350px;
+  }
   &__image {
     max-width: 250px;
   }
@@ -307,6 +331,10 @@
     padding: 10px 20px;
     cursor: pointer;
     transition: 0.5s;
+    @media (max-width: 345px) {
+      font-size: 14px;
+      padding: 10px;
+    }
 
     &:hover {
       border-radius: 5px;
@@ -394,9 +422,13 @@
   display: flex;
   flex-direction: column;
   gap: 30px;
+  @media (max-width: 767px) {
+    margin: 20px auto;
+  }
   &__title {
     display: flex;
     align-items: center;
+    justify-content: space-between;
     gap: 10px;
     border-bottom: 1px solid #F4F4F4;
     padding: 30px 0;
@@ -429,6 +461,12 @@
         path {
           stroke: #7B7B7B;
         }
+      }
+      @media (max-width: 425px) {
+        span{
+          display: none;
+        }
+
       }
     }
   }
@@ -532,6 +570,15 @@
         }
       }
     }
+    @media (max-width: 767px) {
+      flex-wrap: wrap;
+      justify-content: center;
+      gap: 30px;
+      &-info{
+        flex: 1 1 100%;
+        justify-content: center;
+      }
+    }
   }
   &__info{
     display: flex;
@@ -543,6 +590,9 @@
       span{
         font-weight: 700;
       }
+    }
+    @media (max-width: 475px) {
+      flex-wrap: wrap;
     }
   }
   &__back{

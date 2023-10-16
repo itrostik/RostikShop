@@ -11,17 +11,15 @@ const Header = ({ count, currentPrice, gender, setGender }) => {
 
   return (
     <div className="header __container">
-      <Link to={"/"} className="header__image">
-        <img src={logo} alt="logo" />
+      <Link to={"/"} className="header__title">
+        <div className="header__image">
+          <img src={logo} alt="logo" />
+        </div>
+        <div className="header__title-info">
+          <div className="header__title-head">Rostik SHOP</div>
+          <div className="header__title-text">лучшая одежда здесь</div>
+        </div>
       </Link>
-      <div className="header__title">
-        <Link to={"/"} className="header__title-head">
-          Rostik SHOP
-        </Link>
-        <Link to={"/"} className="header__title-text">
-          лучшая одежда здесь
-        </Link>
-      </div>
       <div className="header__gender">
         <div
           ref={genderRefMale}
