@@ -43,6 +43,7 @@ const Home = ({
       setLoading(false);
     }
     getProducts();
+    // eslint-disable-next-line
   }, [gender, category, sortType]);
   return (
     <>
