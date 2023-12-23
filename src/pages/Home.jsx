@@ -43,7 +43,6 @@ const Home = ({
       setLoading(false);
     }
     getProducts();
-    // eslint-disable-next-line
   }, [gender, category, sortType]);
   return (
     <>
@@ -55,8 +54,7 @@ const Home = ({
       <div className="products">
         {loading
           ? [...new Array(12)].map((_, index) => <Skeleton key={index} />)
-          : // eslint-disable-next-line
-            products.map((product, id) => {
+          : products.map((product, id) => {
               if (category === 0)
                 return (
                   <Product
@@ -85,6 +83,7 @@ const Home = ({
                     />
                   );
                 }
+                return [];
               }
             })}
       </div>
