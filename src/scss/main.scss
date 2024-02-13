@@ -25,7 +25,9 @@
   gap: 29px;
   border-bottom: 1px solid #F6F6F6;
   padding: 30px 0;
-
+  &__image{
+    max-width: 50px;
+  }
   &__title {
     display: flex;
     gap: 20px;
